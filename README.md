@@ -4,7 +4,7 @@ The goal of this project is the study of the effect of color  space transformati
 
 
 ```md 
-color
+color spaces
   |- RGB 
   |- HSV
   |- HSL
