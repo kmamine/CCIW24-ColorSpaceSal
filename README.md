@@ -3,7 +3,7 @@
 The goal of this project is the study of the effect of color  space transformations on deep saliency prediction models 
 
 
-````md 
+```md 
 color
   |- RGB 
   |- HSV
@@ -14,6 +14,5 @@ color
   |- CEIXYZ
   |- CEILUV
   |- CEIXYZ
-  
-
 ```
+
